@@ -6,14 +6,14 @@ Here's a funny image from my favorite game!
 - Gaming
 - Reading
 - Taking Walks
-- 
+
 ## Favorite Games
 - Deadlock
 - Valorant
 - Blue Fire
 - Okami
 - Dying Light
-- 
+
 ## Favorite Sites
  1. [Desmos Graphing Calculator](https://www.desmos.com/calculator)
  2. [The Wordle](https://www.nytimes.com/games/wordle/index.html)
